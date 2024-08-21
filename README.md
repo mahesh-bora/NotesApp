@@ -31,5 +31,5 @@ Install Nginx reverse proxy to make this application available
 
 ## Successfully Configured Pipeline 
 ![image](https://github.com/user-attachments/assets/62cace5b-4eb9-4d27-b749-c2cbd2b5ad84)
-![image](https://github.com/user-attachments/assets/e205dda8-57ac-460c-8a49-7b6b65305c54)
+![image](https://github.com/user-attachments/assets/14a5fa46-83d2-44fa-8fbf-21e5112dd121)
 
