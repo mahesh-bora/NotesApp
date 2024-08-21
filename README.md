@@ -1,4 +1,4 @@
-# Simple Notes App for TWS Community
+# Simple Notes App 
 This is a simple notes app built with React and Django.
 
 ## Requirements
@@ -28,3 +28,8 @@ Install Nginx reverse proxy to make this application available
 
 `sudo apt-get update`
 `sudo apt install nginx`
+
+## Successfully Configured Pipeline 
+![image](https://github.com/user-attachments/assets/62cace5b-4eb9-4d27-b749-c2cbd2b5ad84)
+![image](https://github.com/user-attachments/assets/e205dda8-57ac-460c-8a49-7b6b65305c54)
+
